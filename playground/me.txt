@@ -1,6 +1,0 @@
-{{#user}}
-Name: Pratham Darekar
-Skills: HTML, CSS, JS, Next.js
-Email: prathamdarekar2002@gmail.com
-{{/user}}
-
